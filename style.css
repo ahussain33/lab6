@@ -1,5 +1,6 @@
 td, th {
 	border: 1px solid;
+	padding: 1%;
 }
   
 img {
@@ -8,6 +9,8 @@ img {
 }
 body {
 	font-family: arial;
-	font-weight: 2em;
-	background: linear-gradient(to right, #FF5733, #900C3F, #003FF6);
+	background: linear-gradient(to right, #000000, #003FF6);
+	color: white;
+	
+	
 }
