@@ -1,18 +1,47 @@
-td, th {
-	border: 1px solid;
+td {
+	padding: 20px 30px;
+	font-size: 20px;
+	border: 5px solid white;
+	border-collapse: collapse;
+	text-align: center;
+	width: 100%;
+}
+
+th {
+	font-size: 25px;
+	padding: 20px 30px;
+	border: 5px solid white;
+	border-collapse: collapse;
+	text-align: center;
+	width: 100%;
 }
 
 table {
-	border: 3px solid;
+	border: 5px solid;
+	margin-left: 5%;
+    margin-right: 5%;
+    margin-bottom: 5%;
+	border-collapse: collapse;
+	background-color: black;
+	filter: drop-shadow( 30px 30px 0 white);
+	
+}
+
+h1 {
+	font-size: 10em;
+	margin-bottom: 3%;
+	margin-left: 5%;
+	margin-right: 5%;
+	text-align: center;
+
 }
   
 img {
-	width: 30em;
+	width: 15em;
 	height: auto;
 }
 body {
 	font-family: arial;
-	background: linear-gradient(to right, #000000, #003FF6);
-	color: white;
-	text-align: center;
+	background: linear-gradient(to right, #5100FF, #003FF6, #48C9B0);
+	color: white;	
 }
