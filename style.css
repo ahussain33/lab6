@@ -18,15 +18,12 @@ th {
 
 table {
 	border: 5px solid;
-	margin-left: 5%;
-    	margin-right: 5%;
-    	margin-bottom: 5%;
 	border-collapse: collapse;
 	background-color: black;
 }
 
 h1 {
-	font-size: 15em;
+	font-size: 30em;
 	margin-left: 5%;
 	margin-right: 5%;
 	text-align: center;
