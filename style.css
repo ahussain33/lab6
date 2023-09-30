@@ -4,7 +4,6 @@ td {
 	border: 5px solid white;
 	border-collapse: collapse;
 	text-align: center;
-	width: 100%;
 }
 
 th {
@@ -13,7 +12,6 @@ th {
 	border: 5px solid white;
 	border-collapse: collapse;
 	text-align: center;
-	width: 100%;
 }
 
 table {
@@ -31,7 +29,6 @@ h1 {
   
 img {
 	width: 15em;
-	height: auto;
 }
 body {
 	font-family: arial;
