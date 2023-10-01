@@ -25,5 +25,9 @@ body {
 	background-image: url(media/gradient.jpg);
 	background-repeat: no-repeat;
 	background-size: cover;
-	color: white;	
+	color: white;
+	margin-bottom: 0;
+}
+.space {
+	margin: 10%;
 }
