@@ -23,8 +23,6 @@ img {
 body {
 	font-family: arial;
 	background-image: url(media/gradient.jpg);
-	width: 100%;
-	height: auto;
 	background-repeat: no-repeat;
 	background-size: cover;
 	color: white;	
