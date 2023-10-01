@@ -15,7 +15,7 @@ td, th {
 }
 
 h1 {
-	font-size: 80px;
+	font-size: 10em;
 	text-align: center;
 }
   
@@ -29,7 +29,6 @@ body {
 	background-repeat: no-repeat;
 	background-size: cover;
 	color: white;
-	margin-bottom: -10em;
 }
 
 .space {
