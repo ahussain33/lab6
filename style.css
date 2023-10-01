@@ -22,7 +22,9 @@ img {
 }
 body {
 	font-family: arial;
-	background: linear-gradient(to right, #5100FF, #003FF6, #48C9B0);
-	background-size: 100%;
+	background-image: url(media/gradient.jpg);
+	width: 100%;
+	height: auto;
+	background-repeat: no-repeat;
 	color: white;	
 }
