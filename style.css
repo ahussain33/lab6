@@ -1,13 +1,8 @@
-td {
+td, th {
 	font-size: 20px;
 	border: 5px solid white;
 	border-collapse: collapse;
-}
-
-th {
-	font-size: 25px;
-	border: 5px solid white;
-	border-collapse: collapse;
+	text-align: center;
 }
 
 table {
@@ -18,7 +13,7 @@ table {
 }
 
 h1 {
-	font-size: 30px;
+	font-size: 60px;
 }
   
 img {
@@ -27,5 +22,6 @@ img {
 body {
 	font-family: arial;
 	background: linear-gradient(to right, #5100FF, #003FF6, #48C9B0);
+	background-size: 100%;
 	color: white;	
 }
