@@ -1,15 +1,6 @@
-td {
+td, th {
 	padding: 1em 2em;
 	font-size: 20px;
-	border: 5px solid white;
-	border-collapse: collapse;
-	text-align: center;
-	
-}
-
-th {
-	font-size: 25px;
-	padding: 1em 2em;
 	border: 5px solid white;
 	border-collapse: collapse;
 	text-align: center;
