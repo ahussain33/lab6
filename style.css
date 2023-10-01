@@ -7,10 +7,9 @@ td, th {
 	width: 100%;
 }
 
-table {
-	border: 5px solid white;
-	border-collapse: collapse;
+#planets {
 	background-color: black;
+	width: 100%;
 }
 
 h1 {
@@ -21,6 +20,7 @@ h1 {
 img {
 	width: 200px;
 }
+
 body {
 	font-family: arial;
 	background-image: url(media/gradient.jpg);
@@ -29,6 +29,7 @@ body {
 	color: white;
 	margin-bottom: -10em;
 }
+
 .space {
 	margin: 10%;
 }
